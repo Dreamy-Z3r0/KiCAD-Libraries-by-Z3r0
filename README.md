@@ -6,8 +6,8 @@
     - Created for **FJS40101BH**
     - Symbol compatibility: *any common anode single-digit display*
     - Footprint compatibility:
-        - **FJS-40101xx** series
-        - **TOS-40101xx** series
-        - **KYX-40101Ax** series
+        - ***FJS-40101xx** series*
+        - ***TOS-40101xx** series*
+        - ***KYX-40101Ax** series*
 
 *Note:* Refer to the datasheets for the arrangement and colour of LEDs in each model. [**TOS-40101xx** series](https://www.alldatasheet.com/datasheet-pdf/view/120146/ETC1/TOS-40101BH.html).
