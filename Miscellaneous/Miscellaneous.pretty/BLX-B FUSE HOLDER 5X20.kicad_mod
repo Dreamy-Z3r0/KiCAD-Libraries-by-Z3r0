@@ -1,0 +1,208 @@
+(footprint "BLX-B FUSE HOLDER 5X20"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "150afd53-c8f6-4805-98ef-73969230a5f4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "BLX-B FUSE HOLDER 5X20"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "765c2018-f131-4cd6-9f7f-7bbbf4c733f9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "566527e2-a2c0-4e15-9491-9acc5f271729")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "28f26b97-3a41-412b-a5fc-96f21d7dd44b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -4.5 -12.75)
+		(end 4.5 12.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "6e9561d0-cc89-41cf-ada7-a5da2b03cf4c")
+	)
+	(fp_rect
+		(start -3.55 6)
+		(end -2.6 9.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "Cmts.User")
+		(uuid "55bfa1bd-0c38-4582-a018-c68d68e86219")
+	)
+	(fp_rect
+		(start -3.5 -9.45)
+		(end -2.6 -6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "Cmts.User")
+		(uuid "d87da03e-0fdc-4c30-86af-a67affc911ea")
+	)
+	(fp_rect
+		(start -1.5 -12)
+		(end 1.5 -10.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "Cmts.User")
+		(uuid "8efef0ec-c4ad-4f11-9a2a-9650d001c814")
+	)
+	(fp_rect
+		(start -1.5 10.1)
+		(end 1.5 12)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "Cmts.User")
+		(uuid "d2630251-ed50-4aeb-b2e7-0d43b40ef665")
+	)
+	(fp_rect
+		(start 2.595 6)
+		(end 3.55 9.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "Cmts.User")
+		(uuid "22fdeeaf-f1b0-4e56-b0ab-af821cb2c05f")
+	)
+	(fp_rect
+		(start 2.6 -9.45)
+		(end 3.55 -6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "Cmts.User")
+		(uuid "69baed27-596a-4f38-baa7-3ebb7a5d0d35")
+	)
+	(fp_line
+		(start -2.5 -5)
+		(end 2.5 -5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "e5e1421d-56b3-46ab-ab3e-aa94b3e35974")
+	)
+	(fp_rect
+		(start -2.5 -10)
+		(end 2.5 -5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "d32d8744-de56-46d7-bf4d-cf0c1c88cda4")
+	)
+	(fp_rect
+		(start -2.5 -10)
+		(end 2.5 10)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "eba95fd1-d52e-484a-98ef-d73f26a57b29")
+	)
+	(fp_rect
+		(start -2.5 5)
+		(end 2.5 10)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "564d5734-832d-41d7-9742-6ac941d8ee03")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "3eff1a74-38f7-4118-adbf-1c882d909d10")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole roundrect
+		(at 0 -11.9)
+		(size 4.8 2)
+		(drill oval 3.5 0.6)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.25)
+		(uuid "9fb58d54-734a-4ef8-b838-32efe31c0999")
+	)
+	(pad "2" thru_hole roundrect
+		(at 0 11.9)
+		(size 4.8 2)
+		(drill oval 3.5 0.6)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.25)
+		(uuid "b9b3bc29-13f5-4a1e-b235-5c505abd4d57")
+	)
+	(embedded_fonts no)
+)
